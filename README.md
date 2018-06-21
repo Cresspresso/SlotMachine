@@ -8,7 +8,7 @@ Written in C++ using Visual Studio.
 
 ## Installation (Windows)
 
-1. [Download SlotMachine.zip](https://github.com/Cresspresso/SlotMachine/releases/download/1.0/SlotMachine.zip)
+1. [Download SlotMachine.zip](https://github.com/Cresspresso/SlotMachine/releases/download/1.1/SlotMachine.zip)
 2. Unzip (e.g. by using [7-Zip](https://www.7-zip.org/download.html))
 3. Run SlotMachine.exe
 
@@ -16,7 +16,7 @@ Written in C++ using Visual Studio.
 
 . | .
 --- | ---
-Version | 1.0
+Version | 1.1
 Author | Elijah Shadbolt
 Date | 10/05/2018
 
