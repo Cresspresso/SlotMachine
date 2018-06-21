@@ -1,0 +1,37 @@
+=============================
+   PROJECT INFO
+Title:		consolate
+Source:		main.cpp
+Version:	2.0
+Date:		13/04/2018
+Author:		Elijah Shadbolt
+=============================
+
+
+==============================
+   Preprocessor Definitions
+==============================
+
+Where to define these in a Visual Studio C++ Project:
+
+(right-click) Project > Properties > Configuration Properties > C/C++ > Preprocessor > Preprocessor Definitions
+
+
+=== Definitions ===
+
+CONSOLATE_UNICODE			Force the use of wchar_t characters.
+							This is defined automatically if UNICODE is defined.
+
+CONSOLATE_UNICODE_OFF		Prevent wchar_t characters and use char characters.
+							CONSOLATE_UNICODE takes priority over CONSOLATE_UNICODE_OFF.
+
+CONSOLATE_DEFAULT_OFF		Does not declare/instantiate `Consolate`, the default main instance of the Consolater class.
+
+
+=== Reserved ===
+
+!! DO NOT DEFINE THESE YOURSELF !!
+
+
+CONSOLATE_PRE
+
